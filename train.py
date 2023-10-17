@@ -133,7 +133,7 @@ if __name__ == "__main__":
     batch_size = 16
     lr = 1e-4
     num_epochs = 100
-    dataset_path = "/media/nikhil/Seagate Backup Plus Drive/ML_DATASET/instance-level-human-parsing/instance-level_human_parsing/instance-level_human_parsing"
+    dataset_path = ""
 
     model_path = os.path.join("files", "model.h5")
     csv_path = os.path.join("files", "data.csv")
