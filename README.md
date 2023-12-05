@@ -11,3 +11,5 @@ The sequence of the images are: 1) Input Image 2) Ground Truth Mask and 3) Predi
 ![](results/0000047.png)
 ![](results/0000415.png)
 
+##New Images 
+![Screenshot from 2023-12-05 20-16-35](https://github.com/swarupyeole11/HumanBodyParsing/assets/76248886/f2143d07-c02b-4a18-86fc-1070acbc3a41)
